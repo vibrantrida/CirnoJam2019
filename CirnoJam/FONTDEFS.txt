@@ -1,0 +1,36 @@
+CONFONT {
+	TEMPLATE FNTS%03d
+}
+
+SMALLFONT {
+	TEMPLATE FNTS%03d
+}
+
+BIGFONT {
+    A FNTBA
+    B FNTBB
+    C FNTBC
+    D FNTBD
+    E FNTBE
+    F FNTBF
+    G FNTBG
+    H FNTBH
+    I FNTBI
+    J FNTBJ
+    K FNTBK
+    L FNTBL
+    M FNTBM
+    N FNTBN
+    O FNTBO
+    P FNTBP
+    Q FNTBQ
+    R FNTBR
+    S FNTBS
+    T FNTBT
+    U FNTBU
+    V FNTBV
+    W FNTBW
+    X FNTBX
+    Y FNTBY
+    Z FNTBZ
+}

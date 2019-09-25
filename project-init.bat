@@ -1,0 +1,1 @@
+hygen gzdoom init --json ./project.config.json

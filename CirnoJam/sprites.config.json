@@ -1,0 +1,199 @@
+{
+	"sprites": [
+		{
+			"name": "DUMIA0",
+			"path": "Sprites\\Enemies\\Dummy",
+			"offsets": [24, 48]
+		},
+		{
+			"name": "DUMIB0",
+			"path": "Sprites\\Enemies\\Dummy",
+			"offsets": [24, 48]
+		},
+		{
+			"name": "DUMIC0",
+			"path": "Sprites\\Enemies\\Dummy",
+			"offsets": [24, 48]
+		},
+		{
+			"name": "DUMID0",
+			"path": "Sprites\\Enemies\\Dummy",
+			"offsets": [24, 48]
+		},
+		{
+			"name": "DUMIE0",
+			"path": "Sprites\\Enemies\\Dummy",
+			"offsets": [24, 48]
+		},
+		{
+			"name": "DUMIF0",
+			"path": "Sprites\\Enemies\\Dummy",
+			"offsets": [24, 48]
+		},
+		{
+			"name": "DUMIG0",
+			"path": "Sprites\\Enemies\\Dummy",
+			"offsets": [24, 48]
+		},
+		{
+			"name": "DUMIH0",
+			"path": "Sprites\\Enemies\\Dummy",
+			"offsets": [24, 48]
+		},
+		{
+			"name": "DUMII0",
+			"path": "Sprites\\Enemies\\Dummy",
+			"offsets": [24, 48]
+		},
+		{
+			"name": "IBL1A0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [8, 8]
+		},
+		{
+			"name": "PIBLA0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [16, 16]
+		},
+		{
+			"name": "PIBLB0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [16, 16]
+		},
+		{
+			"name": "PIBLC0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [16, 16]
+		},
+		{
+			"name": "PIBLD0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [16, 16]
+		},
+		{
+			"name": "PIBLE0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [16, 16]
+		},
+		{
+			"name": "PIBLF0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [16, 16]
+		},
+		{
+			"name": "PIBLG0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [16, 16]
+		},
+		{
+			"name": "WIC1A0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1B0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1C0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1D0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1E0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1F0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1G0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1H0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1I0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1J0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC1K0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-100, -87]
+		},
+		{
+			"name": "WIC2A0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2B0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2C0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2D0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2E0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2F0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2G0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2H0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2I0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2J0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		},
+		{
+			"name": "WIC2K0",
+			"path": "Sprites\\Weapons\\WepCirno",
+			"offsets": [-19, -70]
+		}
+	]
+}

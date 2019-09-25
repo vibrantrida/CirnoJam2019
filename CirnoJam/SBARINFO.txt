@@ -1,0 +1,39 @@
+mugshot "Normal", health2
+{
+	{ST00, ST01, ST02} 17;
+}
+
+mugshot "Pain", healthspecial, directional
+{
+	OUCH0 35;
+}
+
+mugshot "Rampage", health
+{
+	EVL0 1;
+}
+
+mugshot "Ouch", health
+{
+	OUCH0 35;
+}
+
+mugshot "Grin", health
+{
+	EVL0 70;
+}
+
+mugshot "God"
+{
+	EVL0 -1;
+}
+
+mugshot "Death"
+{
+	OUCH0 -1;
+}
+
+mugshot "Drown"
+{
+	DRWN0 -1;
+}

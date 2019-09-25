@@ -1,0 +1,66 @@
+// https://zdoom.org/wiki/MAPINFO
+
+GameInfo {
+	Titlepage = "TITLEPIC"
+	MenuFontColor_Title = "Untranslated"
+	PlayerClasses = "CirnoPlayer"
+	PauseSign = "PAUSED"
+	IntermissionCounter = false
+	SkyFlatName = "F_SKY"
+	NoinventoryBar = true
+	MenuBackButton = "MBACK"
+	PlayerClasses = "CJ_Player"
+	NoRandomPlayerClass = true
+	StatusBarClass = "CJ_StatusBar"
+	QuitMessages = "Do you really want to quit?"
+	AddEventHandlers = "CJ_BossHealthBar"
+}
+
+DoomEdNums {
+	// enemies
+	32020 = CJ_Dummy
+	32021 = CJ_Toad
+	32022 = CJ_Tewi
+	
+	// props
+	32050 = CJ_DummyAfterimage
+	32051 = CJ_ToadFrozen
+	
+	// items - pickups
+	32101 = CJ_1UP
+	32102 = CJ_BombCirno
+}
+
+// episodes
+ClearEpisodes
+Episode MAP00 
+{
+	NoSkillMenu
+	Name = "Tutorial"
+	//PicName = "M_TUTOR"
+	Key = "t"
+}
+Episode MAP01 
+{
+	NoSkillMenu
+	Name = "Cirno Jam"
+	//PicName = "M_CIRN"
+	Key = "c"
+}
+
+// skills
+ClearSkills
+Skill easy {
+	DefaultSkill
+	AutoUseHealth
+	AmmoFactor = 2
+	DamageFactor = 0.5
+	EasyBossBrain
+	SpawnFilter = 1
+	Key = "e"
+}
+
+// maps
+Map MAP00 "Tutorial" {
+	PixelRatio = 1.0
+}

@@ -1,0 +1,6 @@
+Audio:
+- RPG Voice Starter Pack (https://cicifyre.itch.io/)
+- UI SFX (https://en.soundeffect-lab.info)
+
+Fonts:
+- Weiholmir (https://justfredrik.itch.io/weiholmir)

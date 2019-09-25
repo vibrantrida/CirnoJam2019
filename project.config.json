@@ -1,0 +1,10 @@
+{
+	"name": "Cirno Jam 2019",
+	"shortname": "CirnoJam",
+	"game": "doom",
+	"playpal": "AAP-64",
+	"sourceport": {
+			"dir": "port\\gzdoom",
+			"exe": "gzdoom.exe"
+	}
+}

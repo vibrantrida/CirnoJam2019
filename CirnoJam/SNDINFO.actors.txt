@@ -1,0 +1,25 @@
+CJ_Player/Pain1 DSDAMG1
+CJ_Player/Pain2 DSDAMG2
+CJ_Player/Pain3 DSDAMG3
+
+$random CJ_Player/Pain {
+	CJ_Player/Pain1
+	CJ_Player/Pain2
+	CJ_Player/Pain3
+}
+
+CJ_Player/Grunt DSJUMP2
+CJ_Player/Jump DSJUMP1
+
+$playersound	CJ_Player	male	*death	dspldeth
+$playersound    CJ_Player	male	*xdeath	dspdiehi
+$playersound    CJ_Player	male	*gibbed	dsslop
+$playeralias    CJ_Player	male	*pain100	CJ_Player/Pain
+$playeralias    CJ_Player	male	*pain75	*pain100
+$playeralias    CJ_Player	male	*pain50	*pain100
+$playeralias    CJ_Player	male	*pain25	*pain100
+$playeralias    CJ_Player	male	*grunt	CJ_Player/Grunt
+$playeralias    CJ_Player	male	*land	*grunt
+$playeralias    CJ_Player	male	*jump	CJ_Player/Jump
+$playersound    CJ_Player	male	*fist	dspunch
+$playeralias    CJ_Player	male	*usefail	*grunt

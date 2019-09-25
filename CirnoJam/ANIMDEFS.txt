@@ -1,0 +1,11 @@
+// Graphics - Hud/Statusbar
+texture SBBOM0
+	pic SBBOM0 tics 53
+	pic SBBOM1 tics 4
+	pic SBBOM2 tics 4
+	pic SBBOM3 tics 2
+	pic SBBOM4 tics 2
+	pic SBBOM5 tics 2
+	pic SBBOM0 tics 4
+	pic SBBOM6 tics 4
+	pic SBBOM7 tics 4

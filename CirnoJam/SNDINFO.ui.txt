@@ -1,0 +1,9 @@
+menu/activate	DSMYES	// Activate a new menu
+menu/backup		DSMNO	// Backup to previous menu
+menu/prompt		DSMYES	// Activate a prompt "menu"
+menu/cursor		DSMMOVE	// Move cursor up/down
+menu/change		DSMMOVE	// Select new value for option
+menu/invalid	DSMNO	// Menu not available
+menu/dismiss	DSMNO	// Dismiss a prompt message
+menu/choose		DSMYES	// Choose a menu item
+menu/clear		DSMNO	// Close top menu

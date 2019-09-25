@@ -1,0 +1,10 @@
+// https://zdoom.org/wiki/IWADINFO
+Iwad {
+	Name = "Cirno Jam 2019"
+	Autoname = "CirnoJam"
+	Game = "Doom"
+    Mapinfo = "mapinfo/mindefaults.txt"
+	Config = "CirnoJam"
+	MustContain = "CJ"
+	Bannercolors = "ff ff ff", "28 5c c4"
+}

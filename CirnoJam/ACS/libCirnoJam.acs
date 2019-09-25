@@ -1,0 +1,7 @@
+#library "libCirnoJam"
+
+#include "zcommon.acs"
+
+Script "CirnoJam_Enter" ENTER {
+	Print(s: "Hello, World! -libCirnoJam");
+}
