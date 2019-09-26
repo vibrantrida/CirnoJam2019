@@ -37,15 +37,22 @@ Episode MAP00
 {
 	NoSkillMenu
 	Name = "Tutorial"
-	//PicName = "M_TUTOR"
+	//PicName = "MBAEP1"
 	Key = "t"
 }
 Episode MAP01 
 {
 	NoSkillMenu
-	Name = "Cirno Jam"
-	//PicName = "M_CIRN"
-	Key = "c"
+	Name = "Story Mode"
+	//PicName = "MBAEP2"
+	Key = "s"
+}
+Episode MAP02 
+{
+	NoSkillMenu
+	Name = "Arcade Mode"
+	//PicName = "MBAEP3"
+	Key = "a"
 }
 
 // skills

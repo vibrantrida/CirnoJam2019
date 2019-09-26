@@ -1,42 +1,19 @@
-DefaultListMenu 
-{
-    //Selector "M_SEL2", -20, -12
-    Font "BIGFONT", "Untranslated"
-	Selector "MSELECT", -12, 12
-}
-
 ListMenu "MainMenu"
 {
-	StaticPatchCentered 160, 6, "EX_TITLE"
-	StaticTextCentered 160, 6, "Cirno Jam"
+	LineSpacing 24
+    StaticPatchCentered 160, 0, "Graphics/Menus/MTITLE.png"
+    Position 160, 74
 
-    Position 82, 61
-    //PatchItem "M_NEW", "n", "PlayerclassMenu"
-	TextItem "New", "n", "PlayerclassMenu"
-    
-    Position 82, 84
-    //PatchItem "M_LOAD", "l", "LoadGameMenu"
-	TextItem "Load", "l", "LoadGameMenu"
-    
-    Position 82, 107
-    //PatchItem "M_SAVE", "s", "SaveGameMenu"
-	TextItem "Save", "s", "SaveGameMenu"
-    
-    Position 82, 130
-    //PatchItem "M_OPT","o", "OptionsMenu"
-	TextItem "Options", "o", "OptionsMenu"
-    
-    Position 82, 153
-    //PatchItem "M_QUIT", "q", "NewQuitMenu"
-	TextItem "Quit", "n", "NewQuitMenu"
+	ButtonItemCentered "Graphics/Menus/MBNNEW.png", "Graphics/Menus/MBANEW.png", "n", "PlayerclassMenu", 0
+	ButtonItemCentered "Graphics/Menus/MBNLOAD.png", "Graphics/Menus/MBALOAD.png", "l", "LoadGameMenu", 0
+	ButtonItemCentered "Graphics/Menus/MBNSAVE.png", "Graphics/Menus/MBASAVE.png", "s", "SaveGameMenu", 0
+	ButtonItemCentered "Graphics/Menus/MBNOPTN.png", "Graphics/Menus/MBAOPTN.png", "o", "OptionsMenu", 0
+	ButtonItemCentered "Graphics/Menus/MBNQUIT.png", "Graphics/Menus/MBAQUIT.png", "n", "NewQuitMenu", 0
 }
 
 ListMenu "EpisodeMenu"
 {
-	//StaticPatchCentered 160, 6, "EX_TITLE"
-	StaticTextCentered 160, 6, "Cirno Jam"
-		
-	Linespacing 23
+	Linespacing 24
 	Position 82, 61
 }
 

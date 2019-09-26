@@ -5,6 +5,7 @@ version "3.8"
 
 // UI
 #include "ZScript/UI/StatusBar/CJ_StatusBar.zs"
+#include "ZScript/UI/Menu/CJ_ButtonItem.zs"
 
 // Actors
 #include "ZScript/Actors/CJ_Player.zs"
