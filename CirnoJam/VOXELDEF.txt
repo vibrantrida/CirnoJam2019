@@ -1,7 +1,3 @@
-// projectiles
-IBL2="Voxels/IBL2A.kvx" {
-}
-
 // items - pickups
 I1UP="Voxels/I1UPA.kvx" {
 	Scale = 0.64

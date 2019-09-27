@@ -13,6 +13,8 @@ ListMenu "MainMenu"
 
 ListMenu "EpisodeMenu"
 {
+	Font "BigFont", "White"
+	Selector "MSELECT", -12, 12
 	Linespacing 24
 	Position 82, 61
 }
