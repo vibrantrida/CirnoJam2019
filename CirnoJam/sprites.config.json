@@ -194,6 +194,46 @@
 			"name": "WIC2K0",
 			"path": "Sprites\\Weapons\\WepCirno",
 			"offsets": [-19, -70]
+		},
+		{
+			"name": "IBL1A0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [8, 8]
+		},
+		{
+			"name": "IBL1B0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [8, 8]
+		},
+		{
+			"name": "IBL1C0",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [8, 8]
+		},
+		{
+			"name": "IBL2A1",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [15, 7]
+		},
+		{
+			"name": "IBL2A5",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [15, 7]
+		},
+		{
+			"name": "IBL2A6A4",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [15, 7]
+		},
+		{
+			"name": "IBL2A7A3",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [15, 7]
+		},
+		{
+			"name": "IBL2A8A2",
+			"path": "Sprites\\Projectiles\\IceBall",
+			"offsets": [15, 7]
 		}
 	]
 }

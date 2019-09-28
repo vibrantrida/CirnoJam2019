@@ -14,7 +14,7 @@ class CJ_IceBall : Actor {
 	}
 	states {
 		Spawn:
-			IBL1 A -1 Bright Light("LightIceBallA");
+			IBL1 ABC 4 Bright Light("LightIceBallA");
 			loop;
 		Death:
 			PIBL A 4 Bright;
