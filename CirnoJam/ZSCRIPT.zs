@@ -7,6 +7,9 @@ version "3.8"
 #include "ZScript/UI/StatusBar/CJ_StatusBar.zs"
 #include "ZScript/UI/Menu/CJ_ButtonItem.zs"
 
+// Global Data
+#include "ZScript/Global/CJ_ComboCounter.zs"
+
 // Actors
 #include "ZScript/Actors/CJ_Player.zs"
 
