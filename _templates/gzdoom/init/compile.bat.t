@@ -9,8 +9,8 @@ set projectSrc=<%= shortname %>
 cd <%= shortname %>\acs
 
 rem delete objects from previously compiled acs
-del /q /f *.o
-del /q /f error.txt
+if exist *.o del /q /f *.o
+if exist error.txt del /q /f error.txt
 
 rem recompile acs
 for %%v in (*.acs) do (
